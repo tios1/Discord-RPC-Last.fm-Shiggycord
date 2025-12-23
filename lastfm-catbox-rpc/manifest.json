@@ -4,7 +4,7 @@
   "version": "1.2.0",
   "description": "Rich Presence using Last.fm with real album art via Catbox",
   "author": "Tios",
-  "entry": "dist/plugin.js",
+  "entry": "plugin.js",
   "type": "plugin",
   "permissions": ["rpc"],
   "hasSettings": true
